@@ -1,0 +1,5 @@
+database,workload,p50_ms,p95_ms,iterations
+ArangoDB,1-hop traversal,259.96,317.41,100
+ArangoDB,2-hop traversal,261.7,338.72,100
+ArangoDB,point lookup,259.42,301.13,100
+ArangoDB,aggregation (group by city),278.65,409.96,100
